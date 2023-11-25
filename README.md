@@ -1,1 +1,1 @@
-# snapi-js
+# Precious Metal Integration JavaScript Library
